@@ -11,7 +11,7 @@ I'm a Data Scientist, who currently works as a Data Science Associate at [Progno
 - 🌱 I’m currently learning (DJANGO) Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Analyst/ML Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ooHCx0rNPQyca2Xt6EzwKWMBEuE6RTpx/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1sdAVdO7ywb0pRxgPRHezHmcEl2-wIyA2/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
 
 ---
 
