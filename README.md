@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-Codingappetit.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=#)](#) [![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nkemakolam-allen-appetite4coding)](https://www.linkedin.com/in/nkemakolam-allen-appetite4coding) [![Twitter Badge](https://img.shields.io/badge/-@CodingAppetit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)](https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)
+[![Website Badge](https://img.shields.io/badge/-Codingappetit.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=#)](#) [![Linkedin Badge](https://img.shields.io/badge/--blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nkemakolam-allen-appetite4coding)](https://www.linkedin.com/in/nkemakolam-allen-appetite4coding) [![Twitter Badge](https://img.shields.io/badge/-@CodingAppetit-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)](https://twitter.com/CodingAppetit?t=hcmc_-GkCZ9OHOoGKuPBPA&s=09)
 
 I'm a Data Scientist, who currently works as a Data Science Associate at [Prognoz AI](https://https://www.prognozai.com/). I'm passionate about sharing knowledge, documentation,dashboards, web engineering.
 **Here's a quick summary about me**:
@@ -11,7 +11,7 @@ I'm a Data Scientist, who currently works as a Data Science Associate at [Progno
 - 🌱 I’m currently learning (DJANGO) Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Back End Engineer, Data Analyst/ML Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1sdAVdO7ywb0pRxgPRHezHmcEl2-wIyA2/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1H6joD2PBZ8WpKS4Vnaz8UV3KVv94q6dk/view?usp=sharing) and contact me by emailing nkemakolamallen@gmail.com.
 
 ---
 
