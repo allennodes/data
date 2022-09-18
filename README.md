@@ -12,6 +12,7 @@ They are interested in gleaning any insights that can help them determine:
 <p>What type of crimes to prepare for?</p>
 <p>Where these crimes are most likely to occur?</p> 
 <p>What days of the week and periods to expect these crimes?</p>
+<p>Conduction complete data analytics and predictive modelling to predict crime types by day, type and district.
 
 >**Data:**
 
