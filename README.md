@@ -9,9 +9,9 @@ Being effective involves knowing crime patterns and where they are likely to occ
 It also involves equipping the Police Department appropriately. 
 They have recruited you to conduct full data analytics and predictive modeling to uncover insights from the data that can be used to effectively mobilize and respond to crimes in shorter time cycles. 
 They are interested in gleaning any insights that can help them determine:
-<p>What type of crimes to prepare for</p>
-<p>Where these crimes are most likely to occur,</p> 
-<p>What days of the week and periods to expect these crimes</p>
+<p>What type of crimes to prepare for?</p>
+<p>Where these crimes are most likely to occur?</p> 
+<p>What days of the week and periods to expect these crimes?</p>
 
 >**Data**
 
